@@ -16,7 +16,8 @@
 ### Project Objective
 The primary objective of the Project is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
-![Loan Analysis 2](https://github.com/user-attachments/assets/e0e01778-462b-423c-9b47-a09fbf33bfa6)
+<img width="920" height="531" alt="VGSALES DASHBOARD POWER BI" src="https://github.com/user-attachments/assets/6ee5ce54-6c36-4c0e-a690-eb742a0b4d9f" />
+
 
 ### Data Source
 Bank-Loan-Financial-Analysis: The primary data set used for this analysis is the "financial_loan.csv", which contains all detailed informations for the analysis.
@@ -76,7 +77,6 @@ Pivot table function was used to analyze the data to answer questions.
 - Loan amount funded is $65.5M
 - Loan amount recieved is $37.3M
   
-![Loan Analysis](https://github.com/user-attachments/assets/d3ae8082-1dc8-448c-b811-9b1c39054134)
 
   ---
   ### Recommendations
